@@ -18,4 +18,4 @@
   <img align="center" alt="Google cload" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 
-![snake animation](https://github.com/GabrielSMoura/GabrielSMoura/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/GabrielSMoura/GabrielSMoura/edit/main/.github/workflows/blank.yml)
