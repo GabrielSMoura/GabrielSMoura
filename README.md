@@ -17,5 +17,3 @@
   <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="Google cload" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
-
-![snake gif](https://github.com/GabrielSMoura/GabrielSMoura/blob/output/github-contribution-grid-snake.svg)
