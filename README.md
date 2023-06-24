@@ -2,7 +2,8 @@
 ### Olá! Eu sou o Gabriel Moura 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_smoura_/)
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/gabriel_smoura_/](https://www.linkedin.com/in/gabriel-moura-461946246/)https://www.linkedin.com/in/gabriel-moura-461946246/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moura-461946246/)
+
 
 ![Gabriel Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSMoura&show_icons=true&theme=dark)
 
