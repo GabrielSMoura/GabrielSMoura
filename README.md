@@ -4,9 +4,9 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="200" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="150" /></a>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=transparent" alt="Top Languages" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=transparent" alt="Top Languages" height="150">
 
 </div>
 
