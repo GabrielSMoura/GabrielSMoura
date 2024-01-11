@@ -1,13 +1,15 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/GabrielSMoura/GabrielSMoura/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+Gabriel+um+desenvolvedor!;Hi%2C+I'm+Gabriel+a+developer!;Hola%2C+soy+Gabriel+un+desarrollador!;Hallo%2C+ich+bin+Gabriel-Entwickler!;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E7%88%BE%E9%96%8B%E7%99%BC%E8%80%85%EF%BC%81" alt="Typing SVG" /></a>
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielSMoura.vercel.app/api/top-langs/?username=GabrielSMoura&show_icons=true&theme=transparent&layout=compact" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="200" /></a>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=transparent" alt="Top Languages" height="200">
+
 </div>
+
  
  &nbsp;
  &nbsp;
