@@ -5,9 +5,9 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=radical&mode=weekly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 <img width=40% align="center" src="https://github-readme-stats-git-main-GabrielSMoura.vercel.app/api/top-langs/?username=GabrielSMoura&show_icons=true&theme=radical&layout=compact" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
@@ -60,7 +60,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/gabriel_smoura_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
