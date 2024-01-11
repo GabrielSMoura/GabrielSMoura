@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielSMoura.vercel.app/api/top-langs/?username=GabrielSMoura&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-GabrielSMoura.vercel.app/api/top-langs/?username=GabrielSMoura&show_icons=true&theme=transparent&layout=compact" />
 </div>
  
  &nbsp;
