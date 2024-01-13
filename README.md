@@ -2,6 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+Gabriel+um+desenvolvedor!;Hi%2C+I'm+Gabriel+a+developer!;Hola%2C+soy+Gabriel+un+desarrollador!;Hallo%2C+ich+bin+Gabriel-Entwickler!;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E7%88%BE%E9%96%8B%E7%99%BC%E8%80%85%EF%BC%81" alt="Typing SVG" /></a>
 
+
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento de backend com JavaScript até o desenvolvimento de frontend com HTML, tenho paixão por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado no desenvolvimento web.</p>&nbsp;
 
 
