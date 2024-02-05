@@ -4,6 +4,7 @@
  
 
 
+
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento de backend com JavaScript até o desenvolvimento de frontend com HTML, tenho paixão por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado no desenvolvimento web.</p>&nbsp;
 
 
