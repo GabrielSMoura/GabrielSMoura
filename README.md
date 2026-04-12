@@ -14,8 +14,8 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="150" /></a>
- 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=dark" alt="Top Languages" height="150">
+<div> </div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=dark" height="150">
 
 </div>
 
