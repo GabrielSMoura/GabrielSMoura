@@ -9,13 +9,13 @@
 
 
 
-<p align="center">Eu amo ❤️ resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento de backend com JavaScript até o desenvolvimento de frontend com HTML, tenho paixão por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado no desenvolvimento web.</p>&nbsp;
+<p align="center">Eu gosto de resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento de backend com JavaScript até o desenvolvimento de frontend com HTML, tenho paixão por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado no desenvolvimento web.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="150" /></a>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=transparent" alt="Top Languages" height="150">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
