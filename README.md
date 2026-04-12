@@ -12,11 +12,15 @@
 <p align="center">Eu gosto de resolver grandes desafios usando tecnologia. <br><br> Desde o desenvolvimento de backend com JavaScript até o desenvolvimento de frontend com HTML, tenho paixão por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um <strong>desenvolvedor full stack de nível intermediário</strong> focado no desenvolvimento web.</p>&nbsp;
 
 
-<div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" height="150" /></a>
-<div> </div>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=dark" height="150">
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielSMoura&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" width="770" />
+  </a>
 
+  <br><br>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielSMoura&layout=compact&theme=dark" height="165" style="display: inline-block;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielSMoura&show_icons=true&theme=dark" height="165" style="display: inline-block;">
 </div>
 
  
