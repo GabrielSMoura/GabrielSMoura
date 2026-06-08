@@ -15,7 +15,9 @@
 
 <br/>
 
-<img src="./img/1.png" width=100%>
+<div align="center">
+  <h2>Sobre mim </h2>
+</div>
 
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="230" align="left" style="margin-right: 15px;">
 
@@ -50,7 +52,7 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%">
+  <img src="./img/2.png" width="100%">
   <br>
    
   <br>
@@ -71,20 +73,19 @@
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  <img src="./img/3.png" width="100%">
   <br>
 </div>
 
 <div align="center">
-  <p align="center">
-    <img src="https://github.com/GabrielSMoura/GabrielSMoura/blob/output/github-snake-dark.svg" width="100%">
-  </p>
+  <picture>
+    <img src="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
+  <img src="./img/4.png" width="100%">
   <br>
   <br>
   <br>
