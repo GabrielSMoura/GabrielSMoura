@@ -15,9 +15,7 @@
 
 <br/>
 
-<div align="center">
-  <h2>Know About Me</h2>
-</div>
+<img src="./img/1.png" width=100%>
 
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="230" align="left" style="margin-right: 15px;">
 
