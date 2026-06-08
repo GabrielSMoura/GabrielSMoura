@@ -16,17 +16,23 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Usando o gerador customizável configurado com o tema do Bomberman
-      - name: generate github-contribution-grid-snake (Bomberman theme)
-        uses: Platane/snk/svg-only@v3
+      # Puxa o repositório para que a Action consiga trabalhar
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      # Gera a animação legítima do Bomberman
+      - name: generate-bomberman-svg
+        uses: svenstaro/bomberman-action@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light&color_snake=#ffcc00
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#ff3333
-          
-      # Envia os arquivos gerados para a branch pacman-output
-      - name: push to the output branch
+          output: dist/pacman-contribution-graph.svg
+
+      # Duplica o arquivo para enganar o README caso ele mude para o modo dark
+      - name: Prepare dark mode file
+        run: cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
+      # Envia os arquivos para a branch pacman-output
+      - name: push bomberman to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
