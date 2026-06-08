@@ -19,33 +19,30 @@
   <h2>Know About Me</h2>
 </div>
 
-<table>
-  <tr>
-    <td width="220px" align="center" valign="middle">
-      <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210">
-    </td>
-    <td valign="top">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Oi!+Eu+sou+Gabriel+Moura;Hi!+I'm+Gabriel+Moura;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E8%8E%AB%E6%8B%89%E3%80%82;%C2%A1Hola!+Soy+Gabriel+Moura.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C+%D0%9C%D0%BE%D1%83%D1%80%D0%B0." alt="Typing SVG" /></a>
-      <br><br>
-      <div align="justify">
-        Um eterno estudante de tecnologia movido a código e uma obsessão por arquiteturas limhas e sistemas eficientes. Unindo a base técnica do SENAI, a graduação em ADS e os desafios da Engenharia da Computação, sou fascinado por transformar café em softwares que realmente resolvem problemas. Já passei pela Porto Seguro, rodei pela Scania e hoje estou no Itaú. Quando não estou programando, estou provavelmente tentando descobrir por que o código funcionou de primeira (o que é sempre muito suspeito).
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="275" align="left" style="margin-right: 15px;">
+
+<div align="justify">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Oi!+Eu+sou+Gabriel+Moura;Hi!+I'm+Gabriel+Moura;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E8%8E%AB%E6%8B%89%E3%80%82;%C2%A1Hola!+Soy+Gabriel+Moura.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C+%D0%9C%D0%BE%D1%83%D1%80%D0%B0." alt="Typing SVG" /></a>
+  <br><br>
+  Um eterno estudante de tecnologia movido a código e uma obsesão por arquiteturas limpas e sistemas eficientes. Unindo a base técnica do SENAI, a graduação em ADS e os desafios da Engenharia da Computação, sou fascinado por transformar café em softwares que realmente resolvem problemas. Já passei pela Porto Seguro, rodei pela Scania e hoje estou no Itaú. Quando não estou programando, estou provavelmente tentando descobrir por que o código funcionou de primeira (o que é sempre muito suspeito).
+</div>
+
+<br clear="all"/>
 
 <hr style="border: 1px solid #333; margin-top: 15px; margin-bottom: 15px;">
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Top Projects (built to avoid manual labor)</h3>
-      <a href="https://github.com/GabrielSMoura/Cyber-Invaders"><img src="https://img.shields.io/badge/CyberInvaders-000000?style=for-the-badge&logo=openjdk&logoColor=white" valign="middle"></a>&nbsp; Jogo educativo em Java inspirado em Space Invaders focado em POO.<br>
-      <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Python%20Automation-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a>&nbsp; Scripts e integrações de API para automação de processos.<br>
-      <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Cloud%20Infra-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" valign="middle"></a>&nbsp; Projetos e laboratórios de implantação de serviços em nuvem (AWS).
-    </td>
-    <td width="180px" align="center" valign="middle">
-      <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170">
+<img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
+
+<div align="left">
+  <h3>Top Projects (built to avoid manual labor)</h3>
+  <a href="https://github.com/GabrielSMoura/Cyber-Invaders"><img src="https://img.shields.io/badge/CyberInvaders-000000?style=for-the-badge&logo=openjdk&logoColor=white" valign="middle"></a>&nbsp; Jogo educativo em Java inspirado em Space Invaders focado em POO.<br>
+  <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Python%20Automation-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a>&nbsp; Scripts e integrações de API para automação de processos.<br>
+  <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Cloud%20Infra-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" valign="middle"></a>&nbsp; Projetos e laboratórios de implantação de serviços em nuvem (AWS).
+</div>
+
+<br clear="all"/>
+
+<hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
     </td>
   </tr>
 </table>
