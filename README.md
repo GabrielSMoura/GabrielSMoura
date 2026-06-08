@@ -90,44 +90,26 @@
   <br>
   <br>
 
-  <table align="center" style="background: transparent; border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td align="right" valign="middle" style="padding-right: 20px; border: none;">
-        <strong>Frontend</strong>
-      </td>
-      <td align="left" valign="middle" style="border: none;">
-        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="right" valign="middle" style="padding-right: 20px; border: none;">
-        <strong>Backend & Database</strong>
-      </td>
-      <td align="left" valign="middle" style="border: none;">
-        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="right" valign="middle" style="padding-right: 20px; border: none;">
-        <strong>DevOps & Tools</strong>
-      </td>
-      <td align="left" valign="middle" style="border: none;">
-        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
+
+
