@@ -77,18 +77,17 @@
   <br>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br><br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/GabrielSMoura/GabrielSMoura/pacman-output/pacman-contribution-graph.svg" width="100%" style="max-width: 850px;">
+  </picture>
+</div>
 
 <div align="center">
   <img src="./img/4.png" width="100%">
+</div>
   <br>
   <br>
   <br>
