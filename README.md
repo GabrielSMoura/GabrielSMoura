@@ -19,12 +19,14 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="275" align="left" style="margin-right: 15px;">
+<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="230" align="left" style="margin-right: 15px;">
+
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Oi!+Eu+sou+Gabriel+Moura;Hi!+I'm+Gabriel+Moura;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E8%8E%AB%E6%8B%89%E3%80%82;%C2%A1Hola!+Soy+Gabriel+Moura.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C+%D0%9C%D0%BE%D1%83%D1%80%D0%B0." alt="Typing SVG" /></a>
+</div>
 
 <div align="justify">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Oi!+Eu+sou+Gabriel+Moura;Hi!+I'm+Gabriel+Moura;%E5%97%A8%EF%BC%81%E6%88%91%E6%98%AF%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E8%8E%AB%E6%8B%89%E3%80%82;%C2%A1Hola!+Soy+Gabriel+Moura.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C+%D0%9C%D0%BE%D1%83%D1%80%D0%B0." alt="Typing SVG" /></a>
-  <br><br>
-  Um eterno estudante de tecnologia movido a código e uma obsesão por arquiteturas limpas e sistemas eficientes. Unindo a base técnica do SENAI, a graduação em ADS e os desafios da Engenharia da Computação, sou fascinado por transformar café em softwares que realmente resolvem problemas. Já passei pela Porto Seguro, rodei pela Scania e hoje estou no Itaú. Quando não estou programando, estou provavelmente tentando descobrir por que o código funcionou de primeira (o que é sempre muito suspeito).
+  Um eterno estudante de tecnologia movido a código e uma obsessão por arquiteturas limpas e sistemas eficientes. Unindo a base técnica do SENAI, a graduação em ADS e os desafios da Engenharia da Computação, sou fascinado por transformar café em softwares que realmente resolvem problemas. Já passei pela Porto Seguro, rodei pela Scania e hoje estou no Itaú. Quando não estou programando, estou provavelmente tentando descobrir por que o código funcionou de primeira (o que é sempre muito suspeito).
 </div>
 
 <br clear="all"/>
