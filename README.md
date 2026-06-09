@@ -2,19 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Gabriel%20Moura&reversal=false&strokeWidth=0&fontColor=FFFFFFFF&textBg=false&fontSize=60&stroke=FFFFFFFF&descAlign=50&descAlignY=50&fontAlignY=45" width="100%">
 </div>
 
-<div align="center" style="margin-top: -10px; margin-bottom: 25px;">
-  <a href="https://github.com/GabrielSMoura?tab=repositories">
-    <img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/GabrielSMoura?style=for-the-badge&labelColor=000000&color=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjruNDFlbDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAgMSAuNDE2IDEuMjc5bC0zLjA0NiAyLjk3LjcxOSA0LjE5MmEuNzUxLjE1MSAwIDAgMS0xLjA4OC43OTFMNCAxMi4zNDdsLTMuNzY2IDEuOThhLjc1LjY1IDAgMCAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwIDEgLjQxNi0xLjI4bDQuMjEtLjYxMUw3LjMyNy42NjhBLjc1LjY1IDAgMCAxIDggLjI1WloiPjwvcGF0aD48L3N2Zz4=" />
-  </a>
+<div align="center">
+  <a href="https://github.com/GabrielSMoura?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-9-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
   &nbsp;
-  <a href="https://github.com/GabrielSMoura?tab=repositories">
-    <img alt="Forks" title="Forks Repository" src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1hDNC41YS43NS43NSAwIDAgMCAuNzUtLjc1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMHYuODc4YTIuMjUgMi4yNSAwIDAgMS0yLjI1IDIuMjVoLTEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEgMS0xLjUgMFY4LjVoLTEuNUEyLjI1IDIuMjUgMCAwIDEgMy41IDYuMjV2LS44NzhhMi4yNSAyLjI1IDAgMSAxIDEuNSAwWk01IDMuMjVhLjc1LjY1IDAgMSAwLTEuNSAwIC43NS43NSAwIDAgMCAxLjUgMFptNi43NS43NWEuNzUuNzUgMCAxIDAgMC0xLjUuNzUuNzUgMCAwIDAgMCAxLjVaTS0zIDguNzVhLjc1LjY1IDAgMSAwLTEuNSAwIC43NS43NSAwIDAgMCAxLjUgMFoiPjwvcGF0aD48L3N2Zz4=" />
-  </a>
+  <a href="https://github.com/GabrielSMoura?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/badge/FORKS-0-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+" /></a>
   &nbsp;
-  <a href="https://github.com/GabrielSMoura?tab=followers">
-    <img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/GabrielSMoura?style=for-the-badge&labelColor=000000&color=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgOS44OTOCAyLjU0OSA1LjUwNSA1LjUwOCAwIDAgMSAzLjAzNCA0LjA4NC43NS43NSAwIDEgMS0xLjQ4Mi4yMzUgNCA0IDAgMCAwLTcuOSAwIC43NS43NSAwIDAgMS0xLjQ4Mi0uMjM2QTUuNTA3IDUuNTA3IDAgMCAxIDMuMTAyIDguMDUgMy40OTMgMy40OTMgMCAwIDEgMiA1LjVaTTExIDRhLjc1LjY1IDAgMSAwIDAgMS41IDEuNSAxLjUgMCAwIDEgLjY2NiAyLjg0NC42NS46NSAwIDAgMC0uNDE2LjY2MnYuMzUyYS42NS46NSAwIDAgMCAuNTc0LjczYzEuMi4yODkgMi4xNjIgMS4yIDIuNTIyIDIuMzcyaGEuNjUuNjUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" />
-  </a>
+  <a href="https://github.com/GabrielSMoura?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/badge/FOLLOWERS-20-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
 </div>
+<br>
 
 <div align="center">
   <h2>Sobre mim</h2>
@@ -41,16 +36,10 @@
 <table style="border: none; border-color: black; background-color: #0d1117; width: 100%;">
   <tr style="border: none; border-color: transparent; background-color: #0d1117;">
     <td width="80%" valign="middle" style="border: none; border-color: transparent; background-color: #0d1117; padding: 10px;">
-      <h3>Top Projects (built to avoid manual labor)</h3>
-      <p>
-        <a href="https://github.com/GabrielSMoura/Cyber-Invaders"><img src="https://img.shields.io/badge/CyberInvaders-000000?style=for-the-badge&logo=openjdk&logoColor=white" valign="middle"></a>&nbsp; Jogo educativo em Java inspirado em Space Invaders focado em POO.
-      </p>
-      <p>
-        <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Python%20Automation-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a>&nbsp; Scripts e integrações de API para automação de processos.
-      </p>
-      <p>
-        <a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Cloud%20Infra-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" valign="middle"></a>&nbsp; Projetos e laboratórios de implantação de serviços em nuvem (AWS).
-      </p>
+      <h3> Melhores Projetos </h3>
+      <div align="left"><a href="https://github.com/GabrielSMoura/Cyber-Invaders"><img src="https://img.shields.io/badge/CyberInvaders-000000?style=for-the-badge&logo=openjdk&logoColor=white" valign="middle"></a>&nbsp; Jogo educativo em Java inspirado em Space Invaders focado em POO.</div><br>
+      <div align="left"><a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Python%20Automation-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a>&nbsp; Scripts e integrações de API para automação de processos.</div><br>
+      <div align="left"><a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Cloud%20Infra-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" valign="middle"></a>&nbsp; Projetos e laboratórios de implantação de serviços em nuvem (AWS).</div>
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; border-color: transparent; background-color: #0d1117; padding: 10px;">
       <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="100%" style="max-width: 140px;">
