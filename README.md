@@ -36,10 +36,10 @@
 <table style="border: none; border-color: black; background-color: #0d1117; width: 100%;">
   <tr style="border: none; border-color: transparent; background-color: #0d1117;">
     <td width="80%" valign="middle" style="border: none; border-color: transparent; background-color: #0d1117; padding: 10px;">
-      <h3> Melhores Projetos </h3>
-      <div align="left"><a href="https://github.com/GabrielSMoura/Cyber-Invaders"><img src="https://img.shields.io/badge/CyberInvaders-000000?style=for-the-badge&logo=openjdk&logoColor=white" valign="middle"></a>&nbsp; Jogo educativo em Java inspirado em Space Invaders focado em POO.</div><br>
-      <div align="left"><a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Python%20Automation-000000?style=for-the-badge&logo=python&logoColor=white" valign="middle"></a>&nbsp; Scripts e integrações de API para automação de processos.</div><br>
-      <div align="left"><a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Cloud%20Infra-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" valign="middle"></a>&nbsp; Projetos e laboratórios de implantação de serviços em nuvem (AWS).</div>
+      <h3 style="color: #ffffff;">Melhores Projetos</h3>
+      <div align="left"><a href="https://github.com/GabrielSMoura/terminal-rpg-java"><img src="https://img.shields.io/badge/Terminal_RPG-1c3a5e?style=for-the-badge&logoColor=white" valign="middle"></a>&nbsp; <span style="color: #c9d1d9;">RPG em Java com foco em POO, herança e métodos avançados.</span></div><br>
+      <div align="left"><a href="https://github.com/GabrielSMoura/Banco_em_Java"><img src="https://img.shields.io/badge/Banco_Java-1e4d2b?style=for-the-badge&logoColor=white" valign="middle"></a>&nbsp; <span style="color: #c9d1d9;">Simulador bancário: gestão de saques, depósitos e transferências.</span></div><br>
+      <div align="left"><a href="https://github.com/GabrielSMoura"><img src="https://img.shields.io/badge/Web_Portfolio-4a1f3c?style=for-the-badge&logoColor=white" valign="middle"></a>&nbsp; <span style="color: #c9d1d9;">Portfólio interativo destacando projetos de front-end e UI.</span></div>
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; border-color: transparent; background-color: #0d1117; padding: 10px;">
       <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="100%" style="max-width: 140px;">
