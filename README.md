@@ -95,3 +95,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,aws,py,azure,figma,git,gcp,css,html,mysql" alt="My Tech Stack" />
 </div>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:GabrielSMoura?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
