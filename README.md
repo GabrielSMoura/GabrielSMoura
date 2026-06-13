@@ -66,7 +66,7 @@
 </blockquote>
 
 <blockquote>
-  <p>Cada commit que eu faço é, essencialmente, apenas um pedido de desculpas desesperado para o meu eu do futuro. Algum dia voltarei a essa base de código, olharei para a macarronada que escrevi e me perguntarei quem me deixou chegar perto de um teclado.</p>
+  <p>Cada commiiiiiit que eu faço é, essencialmente, apenas um pedido de desculpas desesperado para o meu eu do futuro. Algum dia voltarei a essa base de código, olharei para a macarronada que escrevi e me perguntarei quem me deixou chegar perto de um teclado.</p>
 </blockquote>
 
 <br>
