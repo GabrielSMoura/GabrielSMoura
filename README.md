@@ -62,7 +62,7 @@
 <br>
 
 <blockquote>
-  <p>Códig nenhum é finalizado. Ele apenas se torna um pouco menos caótico a cada refatoração.</p>
+  <p>Código nenhum é finalizado. Ele apenas se torna um pouco menos caótico a cada refatoração.</p>
 </blockquote>
 
 <blockquote>
