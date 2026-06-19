@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<hr style="border: 1px solid #333; margin: 20px 0;">
+<hr style="border: 1px solid #3333; margin: 20px 0;">
 
 <table style="border: none; border-color: black; background-color: #0d1117; width: 100%;">
   <tr style="border: none; border-color: transparent; background-color: #0d1117;">
