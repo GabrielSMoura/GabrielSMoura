@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <h2>Sobre Mi</h2>
+  <h2>Sobre Mim</h2>
 </div>
 
 <table style="border: none; border-color: transparent; background-color: #0d1117; width: 100%;">
