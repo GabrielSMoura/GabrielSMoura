@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&text=Gabriel%20Moura&reversal=false&strokeWidth=0&fontColor=FFFFFFFF&textBg=false&fontSize=60&stroke=FFFFFFFF&descAlign=50&descAlignY=50&fontAlignY=45" width="100%">
 </div>
 
